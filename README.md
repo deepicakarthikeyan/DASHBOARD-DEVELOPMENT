@@ -25,3 +25,8 @@ Multiple visualizations are combined into a single dashboard layout. Interactive
 The dashboard is designed with clarity and usability in mind, using appropriate labels, color schemes, and layout organization. This ensures that the dashboard is easy to understand and visually appealing.
 
 The final deliverable is a functional interactive dashboard that transforms raw data into meaningful insights. This task demonstrates practical skills in dashboard development, data visualization, and the effective use of analytical tools to support data-driven decision-making.
+
+output:
+
+<img width="1826" height="1041" alt="Screenshot 2026-01-05 021714" src="https://github.com/user-attachments/assets/22be83cc-1fd1-460e-ace5-c0923cbee630" />
+
